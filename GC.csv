@@ -1,0 +1,444 @@
+id,name,gender,city,birth,email,phone,marry,image,record,file,short_name,rank
+KH76193,Vũ Tuấn Hải,Nam,Hà Nội,1983,vth83vn@gmail.com,0975827966,Chưa kết hôn,False,False,True,Hải,thường
+KH54111,Xuyên,Nam,Tây Ninh,1991,uocmotuoitre@gmail.com,0964496092,Chưa kết hôn,False,False,True,Xuyên,thường
+KH30249,Nguyễn Quang Minh,Nam,TP.Hồ Chí Minh,1989,nqminh2808@gmail.com,0933998220,Chưa kết hôn,False,False,True,Minh,thường
+KH67806,Phạm Hoàng Long - hhtt,Nam,TP.Hồ Chí Minh,1988,Longpham.020488@gmail.com,0972321809,Chưa kết hôn,False,False,True,Long,thường
+KH4518,Nguyễn Minh Tuấn - hhtt ,Nam,Hải Phòng,1987,tuan1987hd@gmail.com,0967231187,Chưa kết hôn,False,False,True,Tuấn,thường
+KH67072, Phương - HHTT,Nam,TP.Hồ Chí Minh,1989,,0972280359,Chưa xác định,False,False,True,Phương,thường
+KH67234,Nguyễn văn hóa,Nam,Phú Thọ,1983,,0982120561,Chưa xác định,False,False,True,Văn,thường
+KH54588,Thảo _ Công nhân,Nữ,TP.Hồ Chí Minh,1983,MB.36534767@hdty.vn,0965211776,Chưa kết hôn,False,False,True,Thảo,thường
+KH7559,Nguyễn Duy Tiến,Nam,Hà Nội,1979,tienndbkmech@gmail.com,0983466826,Chưa xác định,False,False,True,Tiến,thường
+KH92516,phan ngọc trung,Nam,TP.Hồ Chí Minh,1990,pnt27190@gmail.com,0942602281,Chưa xác định,False,False,True,Trung,thường
+KH81083,nguyen hoang nam,Nam,Đồng Tháp,1990,nguyenhoangnam121090@gmail.com,0352526899,Chưa kết hôn,False,False,True,Nam,thường
+KH74743,11/4 Nguyễn hữu phúc,Nam,Đồng Nai,1991,Nguyenhuuphuc58@gmail.com,0797407575,Chưa kết hôn,False,False,True,Phúc,thường
+KH9000,Vũ-lái xe-6.3,Nam,TP.Hồ Chí Minh,1987,vudj1987@gmail.com,0932774555,Chưa kết hôn,False,False,True,Vũ,thường
+KH93741,Phạm văn hương - 1m56,Nam,Gia Lai,1978,Anhhuong62526@gmail.com,0972809746,Chưa kết hôn,False,False,True,Hương,thường
+KH9417, DO VAN Bình,Nam,Ninh Bình,1990,Dovanbinh030990@gmail.com,0974593886,Chưa kết hôn,False,False,True,Bình,thường
+KH61291,Phong,Nam,Hà Nội,1987,phong137918@gmail.com,0948137918,Chưa kết hôn,False,False,True,Phong,thường
+KH63678,Cường,Nam,Hà Nội,1985,tranhuycuongbsth1985@gmail.com,0378748921,Chưa kết hôn,False,False,True,Cường,thường
+KH67656,Tran Thanh Tuan,Nam,TP.Hồ Chí Minh,1985,anhodamsen@gmail.com,0397513142,Chưa kết hôn,False,False,True,Tuấn,thường
+KH9281,mã xuân hợi,Nam,Hà Nội,1996,tansongnen@gmail.com,0911105515,Chưa kết hôn,False,False,True,Xuân,thường
+KH55436,long,Nam,Khánh Hòa,1986,thaclong34@gmail.com,0971763738,Chưa kết hôn,False,False,True,Long,thường
+KH67775,LÒ ÁNH DƯƠNG -HHTT,Nam,Sơn La,1987,Duongkhangdk112@gmail.com,0972869945,Ly thân,False,False,True,Dương,thường
+KH67717,Vương - HHTT,Nam,Hà Nội,1992,,0977841661,Chưa xác định,False,False,True,Vương,thường
+KH67686,NGUYỄN VĂN SAN ,Nam,Hải Phòng,1985,,0964902529,Chưa xác định,False,False,True,San,thường
+KH51423,nguyen tung lam - hhtt,Nam,Lai Châu,1988,nhipdaphotboy@yahoo.com.vn,0383106465,Chưa kết hôn,False,False,True,Lam,thường
+KH60542,Hưng,Nam,Hà Nội,1977,,0977442567,Đã ly hôn,False,False,True,Hưng,thường
+KH67447,Phan Minh Chiến ,Nam,Chưa xác định,1985,,0366519103,Chưa xác định,False,False,True,Chiến,thường
+KH67681,KHANG - HHTT,Nam,Chưa xác định,2000,,0856409949,Chưa xác định,False,False,True,Khang,thường
+KH67612,HẢI - HHTT,Nam,Chưa xác định,1983,,0354994036,Chưa xác định,False,False,True,Hải,thường
+KH94321,Tuấn Tony,Chưa xác định,Chưa xác định,1970,,0377860686,Chưa xác định,False,False,True,Tuấn,thường
+KH99225,Bùi Hiếu - hhtt ,Nam,Cà Mau,1984,Hieubui233@mail.com,0854144133,Đã ly hôn,False,False,True,Hiếu,thường
+KH67124,Thế - HHTT,Nam,Chưa xác định,1970,,0904439945,Chưa xác định,False,False,True,Thế,thường
+KH79674,Trung Tuyen,Nam,Ninh Bình,1990,letuyen100390@gmail.com,0943136586,Chưa kết hôn,False,False,True,Trung,thường
+KH67429,Pham Đuc thuan - HHTT,Nam,Chưa xác định,1986,phamthuan12_08_1986@gmail.com,0987654986,Chưa xác định,False,False,True,Đức,thường
+KH93307,Mai thi linh,Nữ,Khánh Hòa,1985,Meyeucon2015kiet@gmail.com,0971245648,Đã ly hôn,False,False,True,Linh,thường
+KH67748,Chị Dương - HHTT,Nữ,Hà Nội,1969,,0982498169,Chưa xác định,False,False,True,Dương,thường
+KH67597,ANH PHONG - HHTT,Nam,Chưa xác định,Chưa xác định,,0399496899,Chưa xác định,False,False,True,Phong,thường
+KH67695,TRUNG - HHTT,Nam,Hà Nội,1993,,0359685691,Chưa xác định,False,False,True,Trung,thường
+KH67662,A. Hoàng - HHTT ,Nam,Khánh Hòa,1987,hoangmedia8@gmail.com,0362573450,Chưa xác định,False,False,True,Hoàng,thường
+KH67812,ANH ĐẠT - HHTT,Nam,Chưa xác định,1996,,0379183598,Chưa xác định,False,False,True,Đạt,thường
+KH93685,NGUYỄN TRUNG - HHTT,Nam,Nghệ An,1989,,0378919506,Chưa xác định,False,False,True,Trung,thường
+KH67213,Bùi Văn Quyết - HHTT,Nam,Chưa xác định,1995,,0373469310,Chưa xác định,False,False,True,Văn,thường
+KH93189,Trân nhât linh - hhtt,Nam,Đà Nẵng,1992,Nhatlinh91292@gmail.com,0369357247,Chưa kết hôn,False,False,True,Linh,thường
+KH92425,Nguyễn Văn Hiến - hhtt,Nam,Ninh Bình,1990,nguyenvanhien1611@gmail.com,0353099552,Chưa xác định,False,False,True,Văn,thường
+KH67583,Anh Tình -  HHTT - 2 lần  - đã thanh toán lần 1 300k,Nam,Hải Phòng,1986,,0967158256,Chưa xác định,False,False,True,Thanh,thường
+KH37556,ĐỔ THÀNH TRUNG,Nam,Đồng Tháp,1986,trunghau120@gmail.com,0988808364,Chưa kết hôn,False,False,True,Trung,thường
+KH51729,nguyễn xuân thắng,Nam,Hà Nội,1986,xuanthang260686vp@gmail.com,0961096616,Chưa kết hôn,False,False,True,Thắng,thường
+KH93863,LONG,Nam,Chưa xác định,1982,,0986787921,Chưa xác định,False,False,True,Long,thường
+KH93679,Bình_đã kết hôn,Nam,Hà Nội,1986,,0968565189,Chưa xác định,False,False,True,Bình,thường
+KH91861,Phan văn thi,Nam,Đắk Lắk,1990,Phanvanthi874@gmail.com,0973227874,Chưa kết hôn,False,False,True,Thi,thường
+KH67783,ANH PHƯƠNG - HHTT,Nam,Chưa xác định,1984,,0945324733,Chưa xác định,False,False,True,Phương,thường
+KH72643,Đào Duy Kiên,Nam,Hà Nội,1996,kienduydao@gmail.com,0377128274,Chưa kết hôn,False,False,True,Kiên,thường
+KH67356,Do Gia Huy,Chưa xác định,Chưa xác định,1970,,0978011496,Chưa xác định,False,False,True,Huy,thường
+KH93883,Duy Phòng - HHTT,Chưa xác định,Chưa xác định,Chưa xác định,,0869235793,Chưa xác định,False,False,True,Duy,thường
+KH54585,Nguyễn Thanh Tiến,Nam,Đà Nẵng,1977,MB.36520220@hdty.vn,0337751965,Chưa kết hôn,False,False,True,Tiến,thường
+KH102562,LIÊN HỆ SAU 04/05/26 Phùng gia chất,,,,Phongcachviet1809@gmail.com,0963288802,,False,False,True,Liên,thường
+KH128440,"Dao huy Ly _ cai thầu xây dựng, học c3_zalo 1.1_35HS_3CHTT_1CHBM_15/3 - 16/4_1/1",,,,huylydao78@gmail.com,0971021485,,True,False,True,Ly,thường
+KH109050,Dương Đình Thự ,,,,yangtingshu86@gmail.com,0866017886,,False,False,True,Dương,thường
+KH67228,c lan - DN,,,,dtam2003@yahoo.com,0768042399,,False,False,True,Lan,thường
+KH103278,Quách Kim Phượng,,,,q.kimphuong@yahoo.com.vn,0708783967,,False,False,True,Phượng,thường
+KH46124,Lê Hằng- TAHS - HS266316,,,,lehangmoon@yahoo.com,0933210379,,True,False,False,Hằng,thường
+KH65948,trương công chung-TAHS,,,,truongcongchung1391@gmail.com,0915598220,,False,False,True,Công,thường
+KH8935,ĐÃ KẾT HÔN | Phùng gia chất,,,,Chatthuyptnd@gmail.com,0963656436,,False,False,True,,thường
+KH110344,LIÊN HỆ SAU 12/01/2027|Phạm Quang Hùng- đang tìm hiểu,,,,hung91.netco@gmail.com,0966427491,,True,True,True,Hùng,thường
+KH103125,Lê toàn,,,,Toanle@gmail.com,0972591200,,False,False,True,Toàn,thường
+KH52871,TAHS - Trần Văn Lấm,,,,TRANVANLAM03@GMAIL.COM,0973108691,,False,False,True,Văn,thường
+KH126488,Thái Minh Sơn_35HS_4CH_1CHBM_1/1_Tự do,,,,thaiminhson997@gmail.com,0332496048,,True,False,True,Sơn,thường
+KH98884,Phạm Đức Nghĩa ,,,,phamducnghia91@gmail.com,0934504530,,False,False,False,Nghĩa,thường
+KH102293,Đình Thắng ,,,,,0988225885,,False,False,True,Thắng,thường
+KH9136,Hùng,,,,hungcv@gmail.com,0912461339,,False,False,False,Hùng,thường
+KH123176,Lê Hồng Quang,,,,,0367409882,,False,False,True,Hồng,thường
+KH57745,không liên hệ duy xuyên - DN ,,,,duyxuyen12345@gmail.com,0965403774,,True,False,True,Duy,thường
+KH5044,Nguyen xuan vinh,,,,vinh19802008@gmail.com,0916364145,,False,False,False,Vinh,thường
+KH59376,Mai Thị Kiều Phương _ Xấu,,,,maiphuong180486@gmail.com,0374607183,,True,True,True,Phương,thường
+KH102622,Huệ - hs xấu,,,,,0364030099,,True,True,True,Huệ,thường
+KH1676,Nguyễn Duy Cường,,,,nguyencuongduy1981@gmail.com,0986705798,,True,False,False,Cường,thường
+KH92959,"đã kết hôn | Trịnh Ngọc Cương - Kĩ sư cơ điện, đã có vợ",,,,cuongngoc8884@gmail.com,0915913958,,True,False,True,Cơ,thường
+KH107847,Nguyễn văn  Khải ,,,,Hoangduocsu74@gmail.com,0793761347,,False,False,True,Văn,thường
+KH2505,TAHS- Khưu Hữu Nghĩa,,,,khuuhuunghia@yahoo.com.vn,0973382211,,False,False,False,Nghĩa,thường
+KH2704,TAHS - Nguyễn Khánh,,,,nguyenkhanh291@yahoo.com.vn,0966212252,,False,False,True,Khánh,thường
+KH1239,Nguyễn Thị Vui,,,,vui1tbh@gmail.com,0907448889,,True,False,True,Vui,thường
+KH48034,Nguyễn Văn Huân,,,,huanthth@gmail.com,0365833623,,False,False,True,Văn,thường
+KH9646,LÊ THỊ ÁNH TUYẾT-TAHS _ bị tật ở mắt,,,,saobien490@gmail.com,0946928410,,True,False,True,Tuyết,thường
+KH107699,Dương Anh Tuấn_Xấu,,,,taydoart@gmail.com,0913090287,,False,True,True,Tuấn,thường
+KH123563,Cúc _ Không bán tvxm,,,,,0979367994,,True,False,True,Cúc,thường
+KH99742,Nhữ thị phương Lan,,,,Hiennhimamnon2013@gmai.com,0384261053,,False,False,True,Lan,thường
+KH116343,Trường_ BM,,,,,0967538005,,True,True,True,Trường,thường
+KH55680,Lý Vĩnh Trường -1m57,,,,job.truongly@gmail.com,0908080656,,True,False,False,Trường,thường
+KH3767,TAHS - Nguyen Tien Thành,,,,tienthanhslvt@gmail.com,0974543596,,False,False,True,Thành,thường
+KH1914,"Nguyễn Thị Thuý Hạnh, TAHS | Liên hệ sau 17/04/2026",,,,thuyhanh1001@gmail.co,0932333955,,False,False,True,Hạnh,thường
+KH103174,Ngô Đức,,,,,0386879545,,False,False,True,Đức,thường
+KH104217,Ngô Văn Hưng,,,,,0983236929,,False,False,True,Hưng,thường
+KH3593,Nguyen dinh Đức - TAHS,,,,goldxman80@gmail.com,0912324786,,True,False,False,Đức,thường
+KH111213,Lê  Tuấn Bình,,,,,0904759307,,True,True,True,Bình,thường
+KH102916,Đặng Hoàng Phương trùng KH116616,,,,Thienphuc724@gmail.com,0909889885,,True,False,True,Phương,thường
+KH119772,Long,,,,,0964989214,,True,True,True,Long,thường
+KH55389,Trọng Đạt - DN,,,,trongdat1980@gmail.com,0912692011,,True,False,True,Đạt,thường
+KH83211,Nguyen quang Sơn,,,,nguyenquangsonok@gmail.com,0913016526,,False,False,True,Sơn,thường
+KH106174,Trần Anh Tuấn,,,,tranat923@gmail.com,0941406035,,False,False,True,Tuấn,thường
+KH67221,c Huệ ,,,,huetran0169@gmail.com,0397282573,,False,False,False,Huệ,thường
+KH99479,Nguyễn Thanh Thảo - Sai SĐT,,,,Thao26774@gmail.com,0948376530,,False,False,True,Thảo,thường
+KH105837,"phạm duy, làm bên xăm hình",,,,nguyenjenda645@gmail.com,0337862231,,False,False,True,Duy,thường
+KH117590,Vũ Hải Dương,,,,vuhaiduong.210591@gmail.com,0385858931,,False,False,True,Dương,thường
+KH3612,Nguyễn  Hùng-TAHS - 1m58,,,,hellohung200@gmail.com,0795510816,,False,False,False,Hùng,thường
+KH100008,Vĩ - vận tải,,,,nguyenhungvi19882017@gmail.com,0977362364,,False,False,True,,thường
+KH60049,Tú Anh - TAHS ,,,,crmsync5738@hopdongtinhyeu.vn,0907444504,,True,True,True,Tú Anh,thường
+KH123775,Nguyễn Thế Quyền-bán hàng_k liên hệ ,,,,thequyen85@gmail.com,0976743793,,False,True,True,Thế,thường
+KH63483,Chu Ngọc Hoan  - DN - a Đạt 50k,,,,hoancn@outlook.com,0968310531,,True,False,False,Đạt,thường
+KH4600,Lê Thu Trang-TAHS,,,,chuonchuon.vithien@gmail.com,0976761668,,False,False,True,Trang,thường
+KH115338,Phạm Trần Quang Khải,,,,quangkhai1707@gmail.com,0908807555,,False,False,True,Quang,thường
+KH104506,Trần Thị Thanh Hà  ,,,,hattt.hn@gmail.com,0904642286,,False,False,True,Hà,thường
+KH93213,Nguyễn Hữu Toàn ,,,,nguyenhuutoan04vta@gmail.com,0915745796,,False,False,True,Toàn,thường
+KH3310,LIÊN HỆ SAU 10/12/26 Nguyễn Quốc Thiên,,,,nguyen_quocthien94@yahoo.com,0902366445,,False,True,True,Thiên,thường
+KH9248,TAHS- LÊ THỊ THANH CUC,,,,hoacuc.dongtien85@gmail.com,0917276957,,True,False,False,Thanh,thường
+KH102644,Phan văn thành ,,,,05102015thanh@gmail.com,0342720669,,False,False,True,Thành,thường
+KH57676,Bùi Diệp Minh Tuyền - TAHS_ĐÃ KẾT HÔN,,,,buidiepminhtuyen@gmail.com,0908178944,,False,False,True,Minh,thường
+KH109159,Nguyễn thị khánh lộc,,,,,0373645642,,False,False,False,Lộc,thường
+KH49204,Thu Hiền - tv Vinamode - chỉ ketban và hhtt được hỗ trợ,,,,tackehoa_xinhdep@yahoo.com.vn,0904955589,,True,False,False,Hiền,thường
+KH7311,TAHS- Nguyễn Hiếu,,,,hotline.td@gmail.com,0789079979,,True,False,False,Hiếu,thường
+KH104323,Huy - lái xe,,,,Nguoitinhtrongmong_dautien@yahoo.com,0387573374,,False,False,True,Huy,thường
+KH103082,Đỗ Hồng Hoạt ,,,,dohonghoat086@gmail.com,0365362273,,False,False,True,Hồng,thường
+KH102284,Hồ Hữu Nhâm Thân ,,,,nhamthan588@gmail.com,0962844031,,False,False,True,Hữu,thường
+KH7458,Đặng Thanh Phát-TAHS,,,,dangthanhphat010788@yahoo.com.vn,0388307380,,False,False,True,Phát,thường
+KH64140,Hoàng Sỹ Giang ,,,,hoangtruonggiang1123@gmail.com,0981230951,,False,False,True,Giang,thường
+KH132825,MMKH_HCM | Trà Vinh_ Lê Văn Minh _ 1/5 _ GH082515,,,,minh0902886213@gmail.com,0902886213,,True,True,True,Văn,thường
+KH63183,Nguyễn Mỹ Thuật,,,,neuemla_nguoitinh@yahoo.com,0975476705,,True,False,True,Mỹ,thường
+KH67747,Lê Việt Hòa,,,,lvhoa58@gmail.com,0937134373,,False,False,True,Hòa,thường
+KH105088,phạm văn tài - chỉ bán HHTT,,,,,0333393980,,False,False,True,Tài,thường
+KH104450,phạm hoàng nhật trường ,,,,,0906617696,,False,False,True,Trường,thường
+KH128556,ĐƯỢC MỜI HẸN | Nguyễn Cao Tuấn _ NGHỈ HƯU_zalo 1.1_72HS_7CHTT_1CHBM_19/03-20/4_1/1,,,,tuannc62@yahoo.com.vn,0913206253,,True,False,True,Tuấn,thường
+KH100610,Nguyễn Hương Liên hệ sau 22/04/26,Nữ,Hà Nội,1987,Huonghuong1387@gmail.com,0919283589,Chưa xác định,False,False,True,Hương,thường
+KH1691,TAHS - Triệu Li An,Nữ,Hà Nội,1987,antrieu.kos@gmail.com,0975250988,Chưa kết hôn,False,False,False,An,thường
+KH108475,Chị Thủy tìm bạn vợ cho em trai,,,,kimthuyhpw@gmail.com,0582683878,,False,False,True,Thủy,thường
+KH105074,Võ Văn Tùng - xây dựng cơ khí _ BM,,,,,0937676239,,True,True,True,Cơ,thường
+KH104417,lê phước minh_zl1 ,,,,,0362956541,,False,False,True,Phước,thường
+KH103938,"Nguyễn Văn Đoan, ĐÃ KẾT HÔN",,,,,0869632854,,False,False,False,Văn,thường
+KH1206,TAHS - Ms. Vy - TVXM - HHTT,,,,trieubinh768@gmail.com,0794725784,,False,False,True,Vy,thường
+KH104673,Đỗ Kim Dư,,,,dothanhduketoan@gmail.com,0913041137,,False,False,True,,thường
+KH107795,Nguyễn viết Thắng ,,,,12thang21@gmail.com,0981055891,,False,False,True,Thắng,thường
+KH8354,Lộc văn Sơn  - DN +5% Liên hệ sau 29/04/26,Nam,Hà Nội,1990,Locson90@gmail.com,0968130714,Chưa kết hôn,True,False,True,Sơn,thường
+KH117384,Vũng Tầu | HCM _ Võ Ngọc Thái Sơn_ thợ kỹ thuật,Nam,TP.Hồ Chí Minh,1990,vongocthaison001@gmail.com,0909504534,Chưa xác định,False,False,True,Sơn,thường
+KH100170,Lê Minh Sang ,Nam,TP.Hồ Chí Minh,1989,minhsang89892017@gmail.com,0941744428,Chưa xác định,False,False,True,Sang,thường
+KH3608,Phạm Anh Tú - TAHS - HS266198,Nam,TP.Hồ Chí Minh,1988,ph.anhtu@gmail.com,0937932617,Chưa kết hôn,False,False,False,Tú,thường
+KH99796,Phạm văn Trọng ,Nam,TP.Hồ Chí Minh,1985,Pngltrong0902@gmail.com,0377936396,Chưa xác định,False,False,True,Trọng,thường
+KH93097,Trần Thị Minh Huyền | liên hệ sau 09/04/2026,Nữ,TP.Hồ Chí Minh,1976,ngan311276@yahoo.com.vn,0907847228,Đã ly hôn,False,False,True,Huyền,thường
+KH109221,c tình,,,,,0358574889,,True,False,True,,thường
+KH4037,TAHS - Lê Việt Đức - Cơ Khí,Nam,TP.Hồ Chí Minh,1990,leducbk90@gmail.com,0903238885,Chưa xác định,True,False,True,Cơ,thường
+KH98311,a Hải Âu,Nam,TP.Hồ Chí Minh,1988,Haiau.010187@gmail.com,0968929121,Đã ly hôn,False,False,True,Hải,thường
+KH112157,Lâm quốc vinh _ zalo 8.2,,,,,0898158790,,True,True,True,Vinh,thường
+KH102969,nguyễn văn Tâm ,Nam,TP.Hồ Chí Minh,1987,Mong1ngayemnhodenanh27@gmail.com,0931495396,Chưa xác định,False,False,True,Tâm,thường
+KH103000,Nguyễn Văn Kôi ,Nam,TP.Hồ Chí Minh,1985,Koinguyenvankoi@gmail.com,0969758667,Chưa xác định,False,False,True,Văn,thường
+KH1350,Lâm Bình Long -TAHS - DN ,,,,thegioi_muonmau99@yahoo.com.vn,0932003059,,False,False,True,Long,thường
+KH67791,Lê đình đại,,,,Ledinhde061288@gmail.com,0398391464,,False,False,True,Lê,thường
+KH98757,Nhan Nguyên Huấn ,Nam,TP.Hồ Chí Minh,1982,nguyenhuan176@gmail.com,0934042095,Chưa xác định,False,False,True,Huấn,thường
+KH66055,Bùi Quang-TAHS,,,,BuiQuang985@gmail.com,0976702979,,False,False,True,Quang,thường
+KH53457,Thắng -  HHTT - TAHS - HS266181,Nam,TP.Hồ Chí Minh,1982,troidemselanh@gmail.com,0936161711,Chưa kết hôn,False,False,True,Thắng,thường
+KH102751,Đỗ Văn Minh,,,,,0377396621,,True,True,True,Văn,thường
+KH106238,Võ Hồng Luyến,Nam,TP.Hồ Chí Minh,1979,3vohongluyen@gmail.com,0943516468,Chưa xác định,False,False,True,Luyến,thường
+KH52856,Lê Thị An ,Nữ,Hà Nội,1979,leantholinh@gmail.com,0965793896,Đã ly hôn,True,False,True,An,thường
+KH66485,Long c m58,Nam,Hà Nội,1990,,0369185014,Chưa xác định,False,False,True,Long,thường
+KH158,anh an - DN - trùng KH2141,,,,,0978067217,,True,False,False,An,thường
+KH104738,Lê Vương Kiều Hạnh,Nữ,TP.Hồ Chí Minh,1976,hanhlecsg@gmail.com,0909545905,Chưa xác định,False,False,True,Hạnh,thường
+KH103465,Đỗ Thị Kim Dung - Sai số,Nữ,Hà Nội,1975,kimdungkhtc@gmail.com,0975874186,Chưa xác định,False,False,True,Dung,thường
+KH131664,Nam Nguyễn_ zalo máy 4 _ công nhân,Nam,Hà Nội,1994,,0812601993,Chưa xác định,False,False,True,Nam,thường
+KH53789,Nguyễn thị Hòa KH53789 | MH 1.500.000,Nữ,Hà Nội,1981,Hoahuyenhoa145@gmail.com,0912564486,Đã ly hôn,True,True,True,Hòa,thường
+KH107132,Nguyễn Thị Phượng | Liên hệ sau 09/04/2026,Nữ,TP.Hồ Chí Minh,1980,phuongnguyen332749@gmail.com,0867888079,Chưa xác định,False,False,True,Phượng,thường
+KH8447,TAHS- Nguyễn Lê Đức - DN,,,,nguyenleducz2@gmail.com,0355525525,,True,False,False,Đức,thường
+KH101541,Hưng ,Nam,TP.Hồ Chí Minh,1985,,0938599150,Chưa xác định,False,False,True,Hưng,thường
+KH115736,bùi thanh bình,,,,,0376029506,,True,True,True,Bình,thường
+KH93688,a Nam - TAHS ,Nam,Hà Nội,1988,Nguyenvannam111988@gmail.com,0981395594,Chưa xác định,False,False,True,Nam,thường
+KH66549,-TAHSĐinh Thị Hồng Minh,Nữ,Hà Nội,1979,dinhminh.ticovn@gmail.com,0988564799,Chưa xác định,False,False,True,Hồng,thường
+KH62401,Nguyễn Bình Dương,,,,,0976946034,,False,True,True,Dương,thường
+KH72963,Lý Chí Phong ,Nam,TP.Hồ Chí Minh,1983,,0902858499,Chưa kết hôn,False,False,True,Phong,thường
+KH108342,Lê thế Bằng,,,,bangdung23052010@gmail.com,0968597678,,False,False,True,Thế,thường
+KH118182,Phúc-tự do-trùng KH120245,Nam,TP.Hồ Chí Minh,1991,mayvanphong568@gmail.com,0939119568,Chưa xác định,False,False,True,Phúc,thường
+KH67198,TAHS - c Hà,Nữ,Hà Nội,1978,muathuhanoi0117@gmail.com,0931764094,Chưa xác định,False,False,True,Hà,thường
+KH118133,Dao Thanh,,,,,0585738831,,False,False,False,Thanh,thường
+KH4815,luong phi an,Nam,Đắk Lắk,1987,anphiluong@gmail.com,0917244394,Chưa xác định,False,True,True,An,thường
+KH2734,TAHS - HS266263 - nguyen hong duy,Nam,Hà Nội,1990,nguyenhongduy20042000@yahoo.com,0397702468,Chưa kết hôn,False,False,False,Duy,thường
+KH126887,Phương - nội trợ_72HS_8CH_,,,,,0816259580,,True,False,True,Phương,thường
+KH94544,TAHS - Doanh ,Nam,Hải Phòng,1988,,0334926699,Chưa xác định,False,False,True,,thường
+KH100721,pham văn Hùng,Nam,TP.Hồ Chí Minh,1990,hunglaumong.q10@yahoo.com,0944422986,Chưa xác định,False,False,True,Hùng,thường
+KH4629,Tiến -TAHS,,,,tienxh1985@gmail.com,0349167925,,True,False,False,Tiến,thường
+KH127216,Lê Đức Tiến_thợ điện_zalo 2.2,,,,,0898031104,,False,False,False,Tiến,thường
+KH103149,Đặng Văn Linh ,Nam,Lào Cai,1991,linhlevis@gmail.com,0849649999,Chưa xác định,False,False,True,Linh,thường
+KH62545,Vũ Xuân Điệp ,Nam,Hà Nội,1977,xuandiep22577@gmail.com,0972251977,Đã ly hôn,False,False,True,Xuân,thường
+KH55209,Thi ,,,,baothi82@gmail.com,0938110182,,False,False,True,Thi,thường
+KH121902,Nguyễn khánh linh - Xấu,,,,Nklinh2210@gmail.com,0818092293,,False,False,True,Linh,thường
+KH126959,Phạm đình thoại_35HS_3CHTT_17.10 - 17.11,,,,phamdinhthoai7073@gmail.com,0938097073,,True,True,True,Thoại,thường
+KH122638,Hoàng Chư,Nam,Lâm Đồng,1992,,0376889280,Chưa xác định,False,False,True,Hoàng,thường
+KH7438,Lê Thị Ngọc Trí- TAHS - HS266264,,,,lengoctri2012@gmail.com,0917076378,,False,False,False,Trí,thường
+KH4404,Nguyễn Hoàng Phúc + Duyên 15k,,,,hoanghon581986@gmail.com,0388299896,,False,False,True,Duyên,thường
+KH51536,Phú Trần Diên - HHTT - DN ,,,,phutrandien@yahoo.com,0932695287,,False,False,True,Phú,thường
+KH93885,ĐẠO,Nam,Gia Lai,1993,,0973993809,Chưa xác định,False,False,True,Đạo,thường
+KH109843,Nguyễn Ngọc Minh,,,,badinhfc2010@gmail.com,0974350962,,False,False,False,Ngọc,thường
+KH98266,TAHS - c Thoa - DN,,,,giathynguyenvo@gmail.com,0979778925,,False,False,True,,thường
+KH102605,Lê Xuân Vinh,,,,Lexuanvinh18081991@geo.com,0977160875,,False,False,True,Vinh,thường
+KH93692,Nguyễn Hạo Quân,,,,trannguyentrung992@gmail.com,0352476766,,False,False,False,Quân,thường
+KH136,TAHS- Ms Kim Oanh,Nữ,Hà Nội,1974,oanhtruyenthong@gmail.com,0916036667,Đã ly hôn,True,False,True,Oanh,thường
+KH99236,Trần Văn Tiến trùng KH94054,,,,tranvantientoto@gmail.com,0937156799,,False,False,True,Tiến,thường
+KH2301,TAHS - HS266266 - Phạm Anh Thư - coi là gái mại dâm rồi nên không bán nữa,,,,anh_tho1990@yahoo.com.vn,0937788482,,False,False,False,Thư,thường
+KH9496,TAHS- Nguyen thi lệ hằng - DN,,,,hangnguyenhp71@gmail.com,0968315216,,False,False,True,Hằng,thường
+KH3997,Hà Minh Vương-TAHS - HHTT,,,,haminhvuong99@gmail.com,,,False,False,True,Vương,thường
+KH117171,Hoàng Hổ,Nam,Hà Nội,1989,,0382777666,Chưa xác định,False,False,True,Hoàng,thường
+KH99829,Trần Thị Thảo,Nữ,Hà Nội,1973,thaott.pa@petrolimex.com.vn,0981112565,Chưa xác định,False,False,True,Thảo,thường
+KH75193,Phạm Ngọc Thiên  -TAHS,,,,phamduythien84@gmail.com,0962270448,,True,True,True,Thiên,thường
+KH112706,Bui Ngoc Tuyền,,,,,0948925448,,False,False,False,Ngọc,thường
+KH116005,Đức Huyền,,,,,0389341130,,False,False,False,Huyền,thường
+KH106309,Đỗ văn Tài,,,,vantai1994kh@gmail.com,0559308247,,False,True,True,Tài,thường
+KH58917,a Tùng 39t,Nam,Hà Nội,1979,thanhtungctybacha@gmail.com,0978090199,Đã ly hôn,False,False,False,Tùng,thường
+KH115545,Đàm Minh Hiếu,Nam,Đồng Nai,1988,Vanphongdietchuot@gmail.com,0368600188,Chưa xác định,False,False,True,Hiếu,thường
+KH99434,Hải,Nam,Hà Nội,1994,hainanhnung30894@gmail.com,0975462586,Chưa xác định,False,False,True,Hải,thường
+KH100376,Nguyễn phương anh,,,,191984@gmail.com,0931525059,,False,False,True,Phương Anh,thường
+KH115352,Vũ trọng thắng,,,,Vu98765611@gmail.com,0389547144,,True,True,True,Thắng,thường
+KH104296,Bùi khắc thọ ,,,,Buikhactho240884@gmail.com,0968853186,,False,False,True,,thường
+KH99666,Trần Văn Nam,Nam,Thanh Hóa,1988,Kihieunam@gmail.com,0969169684,Chưa xác định,False,False,True,Nam,thường
+KH105815,Đinh hoàng anh,Nam,TP.Hồ Chí Minh,1988,,0937584652,Chưa xác định,False,False,True,Hoàng Anh,thường
+KH107050,Nguyễn thương,Nam,TP.Hồ Chí Minh,1989,,0984050599,Chưa xác định,False,False,False,Thương,thường
+KH99344,Nguyễn Thị Xuân Loan | Liên hệ sau 09/04/2026,,,,loannguyen3588@gmail.com,0909784235,,False,False,True,Loan,thường
+KH106341,Đã kết hôn | Nguyễn hoàng Hải ,,,,Nguyenhanghai10041989@gmail.com,0962136423,,False,False,True,Hải,thường
+KH102937,Dao ngoc Tuan,Nam,Hà Nội,1981,,0972956386,Chưa xác định,False,False,True,Tuấn,thường
+KH105794,Nguyen Minh Trung,Nam,Gia Lai,1988,nt373979@gmail.com,0963509037,Chưa xác định,False,False,True,Trung,thường
+KH98331,c Oanh,Nữ,Chưa xác định,1973,Vukimoanh1973@gmail.com,0917719168,Chưa xác định,False,False,True,Oanh,thường
+KH1244,TAHS- Phạm Xuân Tùng - 1m58,Nam,TP.Hồ Chí Minh,1963,xuantung25763@yahoo.com.vn,0782620213,Đã ly hôn,True,False,False,Tùng,thường
+KH108796,Đặng Minh Việt,,,,,0975188386,,True,True,True,Việt,thường
+KH92436,trần quốc dũng,Nam,Gia Lai,1989,dungkingvictory@gmail.com,0976088889,Chưa kết hôn,False,False,True,Dũng,thường
+KH93695,Huyền,Nữ,Bắc Ninh,1977,,0979127877,Chưa xác định,False,False,True,Huyền,thường
+KH103074,Đỗ Duy Hà,Nam,Thanh Hóa,1983,Doduyha@gmail.com,0389543868,Chưa xác định,False,False,True,Hà,thường
+KH55857,Hiển - hhtt  - DN,,,,vanhienspk@gmail.com,0972852376,,True,False,False,Hiển,thường
+KH131562,"Nguyễn Tài, sửa xe ô tô",,,,nguyentaivinhlong@gmail.com,0777107107,,False,True,True,Tài,thường
+KH64611,Cẩm Thịnh ,,,,camthinh76@yahoo.com,0985797702,,True,False,False,Thịnh,thường
+KH126252, cô Hậu - chủ doanh nghiệp_35HS_4CH_1CHBM_1/1 _ xấu,,,,vansubinhyen568@gmail.com,0865266956,,True,False,True,Hậu,thường
+KH67512,C. Hiền,Nữ,Ninh Bình,1974,,0947165103,Chưa xác định,False,False,True,Hiền,thường
+KH105056,hoàng quốc phương ,Nam,Quảng Ninh,1988,,0967307689,Chưa xác định,False,False,True,Phương,thường
+KH7405,Tô Văn Hòa-TAHS,,,,tovanhoa12345@gmail.com,,,False,False,True,Hòa,thường
+KH64898,a Toàn - HHTT - DN ,,,,toan140626@gmail.com,0913264174,,True,True,True,Toàn,thường
+KH66256,Lợi - TAHS - HS266171,,,,lloikv2017@gmail.com,0973528527,,False,False,True,Lợi,thường
+KH116981,Trần Đức Lâm - 1/2 - 31.05.21 - 15.06.21,,,,,0964045000,,True,False,True,Lâm,thường
+KH128816,HHTK_Hoàng Thị Liên _ Xấu,,,,Hoanglien2484@gmail.com,0916331944,,True,True,True,Hoàng,thường
+KH101808,Trần Duy Hải,Nam,Quảng Ninh,1984,Hai0904440163@gmail.com,0904440163,Chưa xác định,False,False,True,Hải,thường
+KH107288,Lê minh hoa,,,,Hoalm.vnpt@gmail.com,0915694389,,False,False,True,Lê,thường
+KH101334,Nguyễn Trung ,Nam,Hà Nội,1987,,0392362655,Chưa xác định,False,False,True,Trung,thường
+KH119020,nguyênvănthanh,,,,,0815555688,,False,False,True,Nguyênvănthanh,thường
+KH106076,Trần Nhật trung kien ,,,,kientrung@gmail.com,0974745282,,False,False,True,Trung,thường
+KH27652,Phạm Thanh Bình-TAHS - 1m50 - DN,,,,thanhbinh.pham@live.com,0977855446,,False,False,False,Bình,thường
+KH128719,HCM_Quân_nhạc công _ zalo 13.1,,,,,0328674396,,False,False,True,Quân,thường
+KH98780,Vũ Đình Thành - cháu Cô Loan,Nam,Quảng Ninh,1984,,0965374067,Chưa xác định,False,False,True,Loan,thường
+KH3916,Linh  - Đã kết hôn,,,,phungthuylinh.ftu@gmail.com,0387705989,,True,False,True,Linh,thường
+KH83452,Bùi Trung Tướng ,Nam,Hà Nội,1986,,0919384973,Chưa kết hôn,False,False,True,Trung,thường
+KH103078,Đỗ Tiến Hùng ,,,,Tybanhmyhoangvan1998@gmail.com,0965556850,,False,False,True,Hùng,thường
+KH110539,hoàng đào,,,,,0943610361,,True,True,True,Hoàng,thường
+KH119521,Trần Văn Huy bạn của KH109543_XẤU,,,,mrlinhsvip@gmail.com,,,False,False,True,Huy,thường
+KH111681,Dương  Đình tuyến ,Nam,Hà Nội,1990,,0964241796,Chưa xác định,False,True,True,Tuyến,thường
+KH102657,Hoàng Quốc Trung - ly hôn 2 lần,Nam,Đồng Nai,1966,,0908071461,Chưa xác định,False,False,True,Ly,thường
+KH67750,c Thục,,,,buihanhthuc@gmail.com,0908658437,,False,False,False,Thục,thường
+KH4691,Thanh Xuân - TAHS - TVXM không bán - xấu,,,,ngothanhxuan2011@yahoo.com,0985493668,,False,False,True,Xuân,thường
+KH99673,Võ Hoàng Thọ - hhtt - tt 01 lần (hết),Nam,Cần Thơ,1992,hoangvo.hq@gmail.com,0837553779,Chưa kết hôn,False,False,True,Hoàng,thường
+KH101900,nguyen van dat + Nhung 15k,,,,nguyendat160588@gmail.com,0589171888,,True,True,True,Nguyên,thường
+KH6066,TAHS - Trần Thị Lưu - HHTT,,,,tranthiluu85@gmail.com,0977043051,,False,False,False,,thường
+KH127555, Đặng Văn Thanh_35HS_3CHTT_1CHBM_13/12-13/1_1/1,,,,thanhvaan060@gmail.com,0363236655,,True,True,True,Thanh,thường
+KH102665,Hoàng văn Kiên,Nam,Hà Nội,1996,Hoangvankien120296@gmail.com,0986651225,Chưa xác định,False,False,True,Kiên,thường
+KH104816,anh Lâm- hs xấu,,,,,0988134598,,True,True,True,Lâm,thường
+KH104474,Nguyen cao cuong,Nam,Lâm Đồng,1989,,0387294989,Chưa xác định,False,False,True,Cường,thường
+KH53712,Ngọc Long - hhtt,Nam,Vĩnh Long,1980,phamngoclong858@yahoo.com,0982316858,Chưa kết hôn,False,False,True,Long,thường
+KH63819,A. Đạt - TAHS - 1m58,,,,dat8844@yahoo.com,0792097234,,True,False,False,Đạt,thường
+KH102828,Thưởng,Nam,Bắc Ninh,1984,thuonglim179@gmail.com,0903346207,Chưa xác định,False,False,True,Thưởng,thường
+KH1179,TAHS-Trần Công Anh,,,,tranconganh1985@gmail.com,0934531060,,False,False,False,Công Anh,thường
+KH9470,ĐẶNG THỊ LOAN-TAHS - xhskh,,,,muaha176@gmail.com,0944116110,,False,False,True,Loan,thường
+KH117702,Nguyễn Công Khanh,,,,cuncon6868@gmail.com,0982785468,,False,False,True,Công,thường
+KH102676,nguyễn duy minh ,Nam,Vĩnh Long,1993,minhchux23@gmail.com,0372706682,Chưa xác định,False,False,True,Duy,thường
+KH108217,Tuấn-vận hành máy-không tôn giáo-24.3,Nam,Hà Nội,1991,,0975708533,Chưa xác định,False,False,True,Tuấn,thường
+KH102838,Trinh hoang tuan,,,,,0909754044,,False,False,True,Tuấn,thường
+KH104355,Phan Hồng Thái ,Nam,Đồng Tháp,1989,,0976266278,Chưa xác định,False,False,True,Thái,thường
+KH117923,Hoàng Xuân Phương_35HS_3CHTT_1CHBM_11/5-11/6_1/1,,,,phu3712169@gmail.com,0339375165,,True,False,True,Phương,thường
+KH2319,TAHS- Nguyễn Kim Tuyên,Nam,Phú Thọ,1985,to_live_and_to_fly_2008@yahoo.com,0989355724,Chưa kết hôn,False,False,False,Tuyên,thường
+KH111808,Nguyễn tuấn anh ,,,,Conluanclub@gmail.com,0359633989,,True,False,True,Tuấn Anh,thường
+KH66593,TAHS-Lê Xuân Ngọc,Nam,Thanh Hóa,1990,ngoc471990@gmail.com,0396657938,Chưa kết hôn,False,False,True,Ngọc,thường
+KH65425,Mr. Đức - DN  - HHTT,,,,leducdn1975@gmail.com,0352559404,,True,False,True,Đức,thường
+KH9452,Phạm Đình Giang,,,,phamdinhgiangqd@gmail.com,0838577939,,False,False,True,Giang,thường
+KH114649,Quang quốc huy,,,,,0908658267,,False,False,False,Huy,thường
+KH115816,thương,Nam,An Giang,1990,,0914480732,Chưa xác định,False,False,True,Thương,thường
+KH102959,Mai văn mười,Nam,Lâm Đồng,1989,Maivanmuoi05041989@gmail.Com,0965002261,Chưa xác định,False,False,True,Văn,thường
+KH45993,Nguyễn Anh Tuấn + 10% + hơi khuyết tật,,,,anhtuan0107@gmail.com,0977351399,,True,True,True,Tuấn,thường
+KH3225,TAHS - HS266249 - Trường Lâm,Nam,Bắc Ninh,1986,nguyentruonglam1986@yahoo.com.vn,0986683065,Đã ly hôn,False,False,False,Lâm,thường
+KH48356,nguyễn văn linh,,,,cacvisao89@gmail.com,0972541311,,False,False,True,Linh,thường
+KH98635,Nguyễn Quang Phương - hhtt - tt 01 lần (hết),Nam,TP.Hồ Chí Minh,1972,,0977737889,Chưa kết hôn,False,False,True,Phương,thường
+KH67417,Phan Thanh Sang - TAHS,,,,Phanthanhsang1020496@yahoo.com.vn,0942161667,,True,False,False,Sang,thường
+KH124905,Nghiệp,,,,,0379252842,,True,True,True,Nghiệp,thường
+KH129333,Lâm Văn Tấn,,,,,0327363388,,False,True,True,Văn,thường
+KH129344, Xin Văn Bảo _ làm nông nghiệp,Nam,Tuyên Quang,1994,,0973451371,Chưa xác định,False,True,True,Bảo,thường
+KH103009,Bế văn tông,Nam,Thái Nguyên,1987,Bevantong486@gmail.com,0336597999,Chưa xác định,False,False,True,Văn,thường
+KH103139,Nguyễn xuân trọng,,,,,0983334975,,False,False,True,Trọng,thường
+KH47688,Liên hệ sau 05/04/2026 Lý Thị Cẩm Giang,,,,Dreamygirl7799@yahoo.com.vn,0399994669,,False,False,True,Giang,thường
+KH67443,Đàm Văn Hưng -DN,Nam,Hà Nội,1986,damvanhung17@gmail.com,0978807701,Chưa xác định,False,False,True,Hưng,thường
+KH113562,Hậu,Nam,Phú Thọ,1990,,0967672160,Chưa xác định,False,False,True,Hậu,thường
+KH118010,Nguyễn Ngọc khương,,,,nguyenngockhuong8989@gmail.com,0377075308,,False,False,True,Khương,thường
+KH116238,Phạm thị hạnh,,,,,0941431349,,False,False,True,Hạnh,thường
+KH125394,Đàm văn hiền_35HS_3CHTT_1CHBM_20/05-20/06_1/1,,,,hiendam010179@gmail.com,0912627683,,False,False,True,Hiền,thường
+KH131599,Vũ Thị Hà Chi,,,,,0387394449,,False,False,True,Chi,thường
+KH131493,Trần ngọc thanh _ lái xe,Nam,Thanh Hóa,1987,,0989222304,Chưa xác định,False,False,True,Thanh,thường
+KH102667,Nguyễn Như Phong ,,,,phongnguyennhu19@gmail.com,0386149107,,False,False,True,Phong,thường
+KH100664,Vũ minh Đức,Nam,Hải Phòng,1984,Vuminhduc02147@gmail.com,0976623676,Chưa xác định,False,False,True,Đức,thường
+KH114977,Nhất,,,,,0838447979,,False,False,True,Nhất,thường
+KH6498,Đàm Thị Huệ - Đã kết hôn,Nữ,Hà Nội,1994,damhuespb@gmail.com,00364030099,Chưa kết hôn,False,False,False,Huệ,thường
+KH100097,nguyễn đình hoàng ,,,,nguyendinhhoang221119997@gmail.com,0963617814,,False,False,True,Hoàng,thường
+KH105807,Tâm - phụ hồ,,,,,0382388049,,True,False,True,Tâm,thường
+KH131600,Trần Thanh Cao ,,,,,0877431568,,False,False,True,Thanh,thường
+KH131683,ngô minh tuấn_ công nhân,Nam,Hưng Yên,1995,,0823922223,Chưa xác định,False,False,True,Tuấn,thường
+KH113038,Trịnh văn Thật tt 1 lần hết - 4.9 - 4.10,,,,,0913470007,,True,False,True,Văn,thường
+KH45681,Nguyễn huy bình,Nam,Hải Phòng,1989,Nguyenbinh121289@gmail.com,0359438061,Chưa kết hôn,False,False,True,Bình,thường
+KH111870,Phan Văn Tuấn,,,,,0915922540,,True,False,True,Tuấn,thường
+KH128161,Chị Nhàn _ làm tự do,,,,,0904281768,,True,True,True,,thường
+KH110832,Đinh Thị Thanh Tâm,Nam,TP.Hồ Chí Minh,1989,,0367060421,Chưa xác định,False,True,True,Tâm,thường
+KH102664,Đào Văn Luận ,,,,,0988586741,,False,False,True,Luận,thường
+KH102650,Huỳnh hoàng diễn ,,,,huynhhoangdien060585@gmail.com,0919786346,,False,False,True,Hoàng,thường
+KH131578,Lại Văn Hiến _ thợ sửa điện,Nam,TP.Hồ Chí Minh,1972,,0966869271,Chưa xác định,False,True,True,Văn,thường
+KH5073, xấu Châu - khai sai tuổi thật,Nữ,Hà Nội,1988,lamhai.chau@gmail.com,0904075505,Chưa kết hôn,True,True,True,Châu,thường
+KH3348,Mây,Nữ,Tuyên Quang,1972,sungmayhg72@gmail.com,0989442098,Chưa xác định,False,False,True,Mây,thường
+KH56642,Viet Ha- TAHS - HS266292,Nam,Đồng Nai,1976,hoangpuong5@gmail.com,,Chưa kết hôn,False,False,False,,thường
+KH106480,Đinh Văn Tấn,,,,Dinhvantuan2345@gmail.com,0822366509,,False,False,True,Văn,thường
+KH103301,Nguyen duc thinh,Nam,Nghệ An,1989,Nguyenducthinh400@gmail.com,0982554054,Chưa xác định,False,False,True,Thịnh,thường
+KH7834,Nguyễnbaohanh-TAHS,Nam,Lâm Đồng,1987,Nguyenbaohanh3979@gmail.com,0967399622,Chưa kết hôn,False,False,True,,thường
+KH7829,Nguyễn văn phong-TAHS,Nam,Ninh Bình,1985,nguyenphong9535@gmail.com,0918021762,Chưa kết hôn,False,False,True,Phong,thường
+KH3725,TAHS - HS266253 - Ngô Xuân Hiếu,Nam,Đà Nẵng,1984,xuanhieu99@gmail.com,0918093567,Chưa kết hôn,False,False,True,Hiếu,thường
+KH62766,HS266343 - Trần Quang Thành - DN - hhtt,Nam,TP.Hồ Chí Minh,1963,quangthanhqtt@gmail.com,0903774672,Chưa kết hôn,True,False,False,Thành,thường
+KH104313,thanh đức,Nam,Hưng Yên,1978,,0913223252,Chưa xác định,False,True,True,Đức,thường
+KH116750,Thìn,,,,,0975681326,,False,False,True,Thìn,thường
+KH123331,Lý - thầu xây dưng,Nam,Hà Nội,1978,,0971316656,Chưa xác định,False,False,True,Lý,thường
+KH99627,HUỲNH NHÂN SĨ - 1m58  -DN - xấu,,,,nhansi567@gmail.com,0373556399,,False,False,True,Nhân,thường
+KH104572,Nguyễn Minh Tuấn,Nam,Hải Phòng,1987,,0865917798,Chưa xác định,False,False,True,Tuấn,thường
+KH66815,TAHS- Nguyễn Thái Bình- hhtt - 01 lần(hết),,,,,,,True,False,False,Bình,thường
+KH108571,Nguyễn hùng - sai số,,,,kenny92fx@gmail.com,0399920444,,False,False,True,Hùng,thường
+KH8889,TAHS- Nguyễn Văn Khôi  - hhtt,Nam,Lào Cai,1988,,0981306412,Chưa kết hôn,False,False,True,Khôi,thường
+KH112134,Nguyễn Trung Kiên _ xấu ,,,,,0599991989,,False,True,True,Kiên,thường
+KH5237,Nguyễn Huy ,Nam,Hà Nội,1984,,0369852446,Chưa xác định,False,False,False,Huy,thường
+KH62453,Loan - HHTT - TAHS - HS266177,Nữ,Quảng Trị,1986,dieuloan210@gmail.com,0943658861,Chưa kết hôn,True,False,True,Loan,thường
+KH117864,Nguyễn văn hải,Nam,Hà Nội,1986,,0916112387,Chưa xác định,False,True,True,Hải,thường
+KH102884,Phạm quốc Ái  _đã kết hôn,,,,phamquocai1987@gmail.com,0889935845,,False,False,True,Ái,thường
+KH120352,Xấu | Lê Hồng Hạnh,Nữ,Hà Nội,1996,hanhtjthhl@gmail.com,0962980967,Chưa xác định,False,False,True,Hạnh,thường
+KH53481,Trần Văn Hoàng Phúc,,,,hoangphuc2006@gmail.com,0966421859,,False,False,False,Phúc,thường
+KH9001,Dinh Tuan Dung - DN,Nam,TP.Hồ Chí Minh,1961,dinhgiaphat11.07.1961@gmail.com,0911001939,Đã ly hôn,True,False,True,Dung,thường
+KH131661,Trịnh Văn Hiến,Nam,Hải Phòng,1998,,0877061096,Chưa xác định,False,True,True,Văn,thường
+KH67798,Đoàn minh lời ,,,,loidoan@gmail.com,0388309967,,False,False,True,Minh,thường
+KH105106,Nguyễn Văn An,Nam,Đà Nẵng,1990,khongcoketnoi90@gmail.com,0367218207,Chưa xác định,False,False,True,An,thường
+KH4709,Bùi Xuân Giang-TAHS - DN ,,,,buixuangiang@hotmail.com,0968248682,,False,False,False,Giang,thường
+KH102476,Nguyễn Văn Bình,,,,Vodoivodoi179@gmail.com,0944584619,,False,False,True,Bình,thường
+KH2214,Dương văn Hồi-TAHS,Nam,Lào Cai,1990,duonghoi1905@gmail.com,0822293875,Chưa kết hôn,False,False,False,Văn,thường
+KH103077,nguyễn hoàng phong,,,,Phongst2019@gmail.com,0833869732,,False,False,True,Phong,thường
+KH108588,Phan cong thắng _ thợ hồ,Nam,Nghệ An,1976,,0981086799,Chưa xác định,False,False,True,Thắng,thường
+KH8092,TAHS- Ngyễn Duy Thuyên,,,,thuyenthuy67@gmail.com,0383350698,,False,False,True,Duy,thường
+KH107333,nguyen thanh tam,Nam,Đồng Tháp,1980,,0794902908,Chưa xác định,False,False,False,Tâm,thường
+KH115242,Hoàng ,Nam,Đà Nẵng,1976,,0919683481,Chưa xác định,False,False,True,Hoàng,thường
+KH107777,Bùi Văn Giáp,,,,Buivangiap@gmail.com,0365294817,,False,False,True,Văn,thường
+KH7052,TAHS -  HS266152 - Trần Thị Thúy Nga,Nữ,Hà Nội,1971,luatsutranthuynga@gmail.com,0902143310,Đã ly hôn,False,False,False,Nga,thường
+KH18518,Châu Bảo Thành,,,,hanhphucaoloi01@gmail.com,0383345567,,False,False,True,Thành,thường
+KH102279,Nguyễn văn Long,,,,nguyenvanlong260790@gmail.com,0979602676,,False,False,True,Long,thường
+KH67210,TAHS - Thành,Nam,Gia Lai,1989,doantangthanh081989@gmail.com,0374425194,Đã ly hôn,False,False,True,Thành,thường
+KH103561,Hà Văn Quyết,,,,,0966088328,,False,False,True,Văn,thường
+KH67055,Phạm Ngọc Kiên - bán tầm trưa hoặc tối,,,,kienphamngoc469@gmail.com,0977854229,,False,False,True,Kiên,thường
+KH111135,BH - Nuyễn Hoài Thanh - trùng KH111726  - 1/1 - 10.07 - 10.08,Nam,Cà Mau,1989,,0946492717,Chưa xác định,True,False,True,Thanh,thường
+KH53605,nguyễn văn huỳnh - DN ,Nam,Thừa Thiên Huế,1976,huynhtpt114@gmail.com,0905509113,Đã ly hôn,False,False,True,Văn,thường
+KH67133,Nguyễn thiên đào,Nữ,Cần Thơ,1992,,0776515494,Chưa xác định,False,False,False,Thiên,thường
+KH7555,Đỗ Ngọc Quỳnh-TAHS,,,,ngocquynh1103@gmail.com,0909368226,,False,False,True,Quỳnh,thường
+KH99736,Lê Thu Trang ,Nữ,Hà Nội,1974,,0826446074,Chưa xác định,False,False,True,Trang,thường
+KH102812,Phạm  Văn Chiều ,,,,Phamchieu1995@gmail.com,0947420319,,False,False,True,Văn,thường
+KH101947,Phạm ngọc lưu ,,,,Ngocluuhh123@gmail.com,0978904426,,False,False,True,Ngọc,thường
+KH65993,Thành,Chưa xác định,Chưa xác định,1992,nguyenbathanh301292@gmail.com,0332890599,Chưa xác định,False,False,False,Thành,thường
+KH60153,Vu quang,,,,vuquang_2015@yahoo.com,0948260975,,False,False,False,Quang,thường
+KH94050,Bùi minh nhật,,,,Minhnhat221187@yahoo.com,0972346073,,False,False,True,Nhật,thường
+KH9111,C. Hạnh,Nữ,Hà Nội,1973,hanhhn668@gmail.com,0942982815,Chưa xác định,False,False,True,Hạnh,thường
+KH66391,TAHS- Cao Quốc Cường - HHTT,Nam,Nghệ An,1996,caoxuancuongxom1dh@gmail.com,0388662328,Chưa kết hôn,False,False,True,Cường,thường
+KH67225,c. Thơm - TAHS - hhtt ,Nữ,TP.Hồ Chí Minh,1980,hanghangthi155@gmail.com,0907613145,Chưa xác định,False,False,True,Thơm,thường
+KH118337,minh_BM,Nam,Hà Nội,1968,,0387758310,Chưa xác định,True,False,True,Minh,thường
+KH102797,Huỳnh Duy Thanh ,,,,Lygianam49@gmail.com,0982084064,,False,False,True,Thanh,thường
+KH77305,Trần Thị Thủy-TAHS,Nữ,Hà Nội,1966,Thuyvan798795@gmail.com,0966565966,Đã ly hôn,True,False,False,Thủy,thường
+KH99840,a dũng,,,,Nguyendung1990@gmail.com,0905792938,,False,False,True,Dũng,thường
+KH7770,Trần Văn Mạc-TAHS,Nam,Quảng Trị,1983,minhkmac82@gmail.com,0989460969,Chưa kết hôn,False,False,True,Văn,thường
+KH9412,TAHS- Nguyễn Xuân Tùng,,,,deepsorrow89@gmail.com,0788337966,,False,False,True,Tùng,thường
+KH3951,Nguyễn Phúc Em-TAHS,Nam,Đồng Tháp,1986,dothienlongtaka@gmail.com,0979213044,Chưa kết hôn,False,False,True,Phúc,thường
+KH66203,Nguyễn Thị Giác Toàn - TAHS - TV xấu CSTV không liên hệ ,,,,giactoan@gmail.com,0937058103,,False,False,True,Toàn,thường
+KH62398,Cao 1m59 - TV14034 - trần duy văn - TAHS - HS266215,Nam,TP.Hồ Chí Minh,1977,vantranduy0108@gmail.com,0918457455,Chưa kết hôn,False,False,True,Văn,thường
+KH67521,TAHS - Hồ Thị Thanh Bình  - HHTT,Nữ,Chưa xác định,1969,,0932401035,Chưa xác định,False,False,True,Bình,thường
+KH117511,Nhân_BM,Nam,Đắk Lắk,1983,,0933135161,Chưa xác định,False,False,True,Nhân,thường
+KH67130,cô vân tìm ck cho con gái tên thương,Nữ,Hà Nội,1985,,0356899040,Chưa xác định,False,False,True,Thương,thường
+KH119257,Dương,,,,,0912612966,,False,False,True,Dương,thường
+KH102652,Trần Thọ Cương,,,,,0979728115,,False,False,False,Cương,thường
+KH4288,Chu Công Cường-TAHS - HHTT,Nam,Đắk Lắk,1987,congcuong168@gmail.com,0967223118,Chưa kết hôn,False,False,True,Cường,thường
+KH2163,TAHS- Phạm Thị Hoa,Nữ,TP.Hồ Chí Minh,1972,phamthihoakhoi7@gmail.com,0949310345,Đã ly hôn,False,False,False,,thường
+KH3174,vương huy cườnng-TAHS,,,,vuonghuycuong59@gmail.com,0847373990,,False,False,False,Huy,thường
+KH125404,Hưng,Nam,Hà Nội,1986,,0936259435,Chưa xác định,False,True,True,Hưng,thường
+KH7818,Hoàng viết hoà-TAHS,Nam,Đắk Lắk,1989,Hoangviethoa7@gmail.com,0935373978,Chưa kết hôn,False,False,True,Hoàng,thường
+KH123085,Khúc,Nam,Hà Nội,1964,,0832413490,Chưa xác định,False,False,True,Khúc,thường
+KH5124,A. Giang,,,,,0908139861,,False,False,False,Giang,thường
+KH2387,TAHS- Phạm Ngọc Thân - hhtt,Nam,Đà Nẵng,1983,thanpham83.tp@gmail.com,0934981250,Chưa kết hôn,False,False,True,Ngọc,thường
+KH67674,Hải _ lái tầu,,,,Levanhai09081992&@gmail.com,0989055592,,False,False,False,Hải,thường
+KH3763,Lâm thị Thu-TAHS,Nữ,Tây Ninh,1966,nguoixaydungnha4@gmail.com,0839411315,Đã ly hôn,False,False,False,Lâm,thường
+KH103268,Chị An - hồ sơ xấu ,Nữ,Quảng Ninh,1991,,0866142407,Chưa xác định,True,True,True,An,thường
+KH55313,Vũ Tuấn - DN,,,,vutuan139@gmail.com,0908541847,,False,True,True,Tuấn,thường
+KH67171,Trần Minh Tâm - HHTT - thanh toán 01 lần (hét),Nam,Hà Nội,1996,,0397496909,Chưa xác định,False,False,True,Thanh,thường
+KH67817, Đảng - HHTT,Chưa xác định,Chưa xác định,Chưa xác định,,0364405965,Chưa xác định,False,False,True,,thường
+KH102952,Khánh triều,Nam,Cần Thơ,1977,trieukientuongkt@gmail.com,0798007562,Chưa xác định,False,False,True,Khánh,thường
+KH8834,Nguyễn Tiến Đạt - DN,,,,nguyentiendat19081973@gmail.com,0903258526,,False,False,False,Đạt,thường
+KH56399,Nguyễn Ngọc Liêm,Nam,Cần Thơ,1979,hailuamekongg2@gmail.com,0379376777,Chưa kết hôn,True,False,False,Ngọc,thường
+KH93523,Phi,,,,Phi0974573853@gmail.com,0383586334,,False,False,False,Phi,thường
+KH66068,nguyen huu doan-TAHS,Nam,Quảng Ninh,1986,nguyenhuudoan1983@gmail.com,0911116728,Đã ly hôn,False,False,True,Doan,thường
+KH104652,Phạm hồng Điệp,Nam,Hà Nội,1984,,,Chưa xác định,False,False,True,Hồng,thường
+KH104031,Phạm Thành _BM,,,,,0363381386,,False,False,True,Thành,thường
+KH3289,ĐOÀN THÙY VY,Nữ,Đà Nẵng,1976,vydoan1976@gmail.com,0983761016,Chưa kết hôn,False,False,True,Vy,thường
+KH102974,Võ Quang Hưng,Nam,Chưa xác định,1984,,0373404209,Chưa xác định,False,False,True,Hưng,thường
+KH42151,le trung thuan - HHTT,Nam,Đồng Nai,1982,letanthuan1982@gmail.com,0779328328,Đã ly hôn,False,False,True,Trung,thường
+KH120391,phú-tài xế,,,,,0968351507,,False,False,False,Tài,thường
+KH76543,Dương Văn Hùng _ xấu,Nam,Bắc Ninh,1985,duongvan6063@outlook.com.vn,0358109631,Chưa kết hôn,False,False,True,Hùng,thường
+KH101293,Lê Đình Minh ,,,,Minh9300003@gmail.com,0975131162,,False,False,True,Lê,thường
+KH82294,Dũng Nguyễn,,,,crmsync3083@hopdongtinhyeu.vn,0913328588,,True,False,True,Dũng,thường
+KH103045,Nguyễn ngọc cương,,,,Nguyenngoccuong081986@gmail.com,0984350881,,False,False,True,Cương,thường
+KH7051,TAHS- Nguyễn Thị Ánh - DN ,Nữ,Hà Nội,1973,,0987399066,Đã ly hôn,True,False,False,Ánh,thường
+KH111358,trần hữu khánh ( tên thật: trần văn hùng),Nam,Ninh Bình,1985,,0334821810,Chưa xác định,False,False,True,Văn,thường
+KH52803, HS266357 - Quang Lâm - DN,Nam,Hà Nội,1960,lamhoangminh165@gmail.com,0987386992,Đã ly hôn,True,False,False,Lâm,thường
+KH65473,tran bao trung,Nam,Hà Nội,Chưa xác định,socnaudlvn@gmail.com,0902394252,Chưa kết hôn,True,False,False,Trung,thường
+KH99581,Phạm Văn Xuân ,,,,,0916008160,,False,False,True,Xuân,thường
+KH1088,Thu Hiền,Nữ,Hà Nội,1971,lethithuhien71@gmail.com,0917234799,Chưa xác định,False,False,True,Hiền,thường
+KH109528,Nguyen Quang phục,Nam,Hưng Yên,1976,,0987773694,Chưa xác định,False,False,True,Nguyên,thường
+KH113711,Phương,Nam,Hà Nội,1962,,0962204376,Chưa xác định,False,False,True,Phương,thường
+KH117462,Vũ Ngọc Anh,Nữ,Lào Cai,1979,ngoc.anhthu1979@gmail.com,0912118500,Chưa xác định,False,False,True,Ngọc Anh,thường
+KH93432,Trần Thanh Huy,,,,Huyttran1993@gmail.com,0357917244,,False,False,False,Huy,thường
+KH2044,Thắng - TV xấu _đã kết hôn,Nam,Đà Nẵng,1991,hoangtu_nhangheo_deptrai@yahoo.com,0906877066,Chưa kết hôn,False,False,False,Thắng,thường
+KH115802,Lan Anh,Nữ,Phú Thọ,1978,,0356460486,Chưa xác định,False,False,True,Lan Anh,thường
+KH63629,Lê Thị Hồng Loan ,Nữ,Vĩnh Long,1990,,0335476656,Chưa kết hôn,True,False,False,Loan,thường
+KH52231,TAHS - HS266293 - anh Việt,Nam,Hà Nội,1958,thoihoado216@gmail.com,034990358,Chồng mất/vợ mất,True,False,True,Việt,thường
+KH37968,Ngô Thanh Nghĩa,Nam,An Giang,1985,thanhnghia969@gmail.com,0919969869,Chưa kết hôn,False,False,False,Nghĩa,thường
+KH105051,Lê Công Trường - hồ sơ xấu,Nam,Cần Thơ,1984,,0939506625,Chưa kết hôn,False,True,True,Trường,thường
+KH107085,nhi - hs xấu ,Nữ,Quảng Ninh,1997,,0328843677,Chưa xác định,True,True,True,Nhi,thường
+KH65941,TAHS- Trần Thị Tú,Nữ,Hà Nội,1974,,0912893092,Chồng mất/vợ mất,True,False,True,Tú,thường
+KH9175,TAHS - HS266180 - Nguyễn Đăng Kiên,Nam,Đà Nẵng,1985,nguyendangkien0404@gmail.com,0981325145,Chưa kết hôn,True,False,False,Kiên,thường
+KH103832,lê văn lục ,Nam,Thừa Thiên Huế,1985,lebinhminh08@gmail.com,0971155037,Chưa kết hôn,False,False,True,Văn,thường
+KH66923,pham viet ha ,Nam,Phú Thọ,1983,giot_le_buon_vnn@yahoo.com.vn,036721278,Chưa kết hôn,False,False,False,,thường
+KH80249,nam - DN ,,,,,,,False,False,True,Nam,thường
+KH67243,1 lần (hết) - Ms. Hiền - HHTT ,Nữ,Đắk Lắk,1969,,,Chồng mất/vợ mất,True,False,True,Hiền,thường
+KH66921,Tiến,,,,Trinhphitien.260385@gmail.com,0948424499,,True,True,True,Tiến,thường
+KH4447,A. Hồ _ HHTT _ 6/6 - 7/6 _ 6 cuộc hẹn -TAHS,Nam,TP.Hồ Chí Minh,1982,,,Chưa kết hôn,True,False,True,,thường
+KH104949,Ha thi huong,Nữ,TP.Hồ Chí Minh,1983,,0982829950,Chưa xác định,True,False,True,Thi,thường
+KH574,Mai Thị Thoan  83 - HHTT,Nữ,TP.Hồ Chí Minh,1983,thoan_maimaithi@yahoo.com,0934612444,Chưa xác định,True,False,False,Mai,thường
+KH66251,NGUYỄN THỊ HÀ - dn - nvvp,Nữ,Khánh Hòa,1970,dntnphuhung01@gmail.com,0906467149,Chưa kết hôn,False,False,True,Hà,thường
+KH17164,Danh welsna ,Nam,An Giang,1985,welsna86@gmail.com,0984887856,Chưa kết hôn,False,False,True,,thường
