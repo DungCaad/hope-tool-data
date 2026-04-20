@@ -53,7 +53,7 @@ id,city,name,birth,chuyen_muc,loai_doi_tuong,phone,gender,marry,email,rank
 134743,TP.Hồ Chí Minh,"Đã dùng Mời Hẹn, HCM, Đỗ Thanh Hải, 1/1, NK022602, HSKC, cô Thủy bạc giới thiệu",1968,TVXM _ HDTY,Đã mua dịch vụ,0988688868,Nam,Chưa xác định,haido88688868@gmail.com,bạc
 130521,TP.Hồ Chí Minh,Liên hệ sau 3/11/26 | Không được mời hẹn | HHTK |Trần Thị Hạnh Khuê | HSV | 16 | NK092406 | GH102527 | G112501 | TD052508_C12241_K072526,1973,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0914273600,Nữ,Chưa xác định,Khuehanh.kt@gmail.com,thường
 122370,TP.Hồ Chí Minh,LIÊN HỆ SAU 11/11/27 | ĐƯỢC MỜI HẸN SAU 11/11/28 | 9.6/16 15/8  Đức Hùng _ 1/2 _ NK0622 HSV,1986,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0936907925,Nam,Chưa xác định,kevinvu8686@gmail.com,thường
-52687,Hà Nội,Được mời hẹn và liên hệ sau 26/03/26 |  | 18 | 17/47 | 1/3 |  HK | Anh Trung |  MH 9.000.000 | NK09241 | HSV |,1982,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0904944567,Nam,Đã ly hôn,vutrungls@icloud.ccom,thường
+52687,Hà Nội,Được mời hẹn |  | 18 | 17/47 | 1/3 |  HK | Anh Trung |  MH 9.000.000 | NK09241 | HSV | ,1982,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0904944567,Nam,Đã ly hôn,vutrungls@icloud.ccom,thường
 124708,Hà Nội,"THƯỜNG |  Cô Hằng tìm cho con gái Ngọc KH134230 | HSV | Chị ko biết mẹ ký HD | 1/1 | NK112528 | GH122510, G122517",1996,TVXM _ Đã mua dịch vụ _ HDTY,Đã mua dịch vụ,0904647116,Nữ,Chưa xác định,azo.vn0904647116@gmail.com,thường
 102401,Hà Nội,Được mời hẹn | Nhâm_ HSĐ _ NK0622  _ MH 1.500.000,1992,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0352625873,Nam,Chưa xác định,nhamnv.hus@gmail.com,thường
 133588,TP.Hồ Chí Minh,"10 ngày gửi 1 HSPH, khi đồng ý thì hỏi a. Đạt rồi mới sắp xếp hẹn, Nguyễn Văn Tuấn | 1/3  | KIM CƯƠNG | G102511 | GH022626",1975,TVXM _ Đã mua dịch vụ _ HDTY,Đã mua dịch vụ,0966267879,Nam,Chưa xác định,bdstuandienphat@gmail.com,kim cương
@@ -272,7 +272,7 @@ id,city,name,birth,chuyen_muc,loai_doi_tuong,phone,gender,marry,email,rank
 125277,Hà Nội,BT | Được mời hẹn và liên hệ sau 1/1/27 |27.7 HHTK | Cô Hà tìm cho Ly | NK102403  HSV |,1987,TVXM _ HDTY,Không xác định,0983003846,Nữ,Chưa xác định,thuyha003846@gmail.com,thường
 105848,TP.Hồ Chí Minh,Mã Khoa,1989,TVXM _ HDTY,Không xác định,0908094122,Nam,Chưa xác định,khoamn.hcm@gmail.com,thường
 108622,TP.Hồ Chí Minh,12 Huỳnh Khương Duy_3 phiên k nghe máy,1981,TVXM _ HDTY,Không xác định,0334220606,Nam,Chưa xác định,,thường
-45872,Hà Nội,"LIÊN HỆ SAU 05/02/2027 ,Đặng Trần Nghĩa _ HSB",1989,TVXM _ HDTY,Không xác định,0969226689,Nam,Chưa kết hôn,trannghia.vtc@gmail.com,thường
+45872,Hà Nội,Đặng Trần Nghĩa, HSB,1989,TVXM _ HDTY,Không xác định,0969226689,Nam,Chưa kết hôn,trannghia.vtc@gmail.com,thường
 1441,Hà Nội,"Được mời hẹn, Phạm văn Cầu -TAHS- 2 lần, HSB",1982,TVXM _ HDTY,Đã mua dịch vụ,0904652527,Nam,Chưa kết hôn,cauphamvanlad@gmail.com,thường
 127484,Hà Nội,LIÊN HỆ SAU 26/12/27 30/12 Cô Vinh tìm cho con gái Lam_NK112320_GH112323_G112327_MH 11.000.000Đ,1995,TVXM _ Đã mua dịch vụ _ HDTY,Không xác định,0912003293,Nữ,Chưa xác định,vinhhp@ceos.vn,thường
 127802,Hà Nội,Kiều Phương _ đổi,1992,TVXM _ HDTY,Không xác định,0366960903,Nữ,Chưa xác định,Ktmaiphuonghn@gmail.com,thường
